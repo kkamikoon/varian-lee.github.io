@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Archive"
+    url: /archive/date/
+
+# archive links
+archives:
+  - title: "Archives"
+    children:
+      - title: "Posts by date"
+        url: /archive/date/
+      - title: "Posts by categories"
+        url: /archive/category/
+      - title: "Posts by tags"
+        url: /archive/tag/
