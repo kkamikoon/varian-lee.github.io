@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "ko"
-title                    : "Varian의 블로그 만들기 "
+title                    : "Varian의 블로그"
 title_separator          : "|"
 name                     : "Varian Lee"
 description              : "Let's make an amazing website."
