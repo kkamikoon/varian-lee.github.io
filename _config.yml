@@ -10,7 +10,7 @@
 # Site Settings
 locale                   : "ko"
 title                    : "Varian의 블로그"
-title_separator          : "|"
+title_separator          : "-"
 name                     : "Varian Lee"
 description              : "Let's make an amazing website."
 url                      : "https://varian-lee.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
